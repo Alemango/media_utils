@@ -1,56 +1,61 @@
 [
   {
-    "id": "clasica",
+    "id": "default",
+    "name": "Clásica Default",
+    "previewImageUrl": "https://raw.githubusercontent.com/Alemango/media_utils/refs/heads/invitandoando/plantillas/layout_1.png"
+  },
+  {
+    "id": "template_01",
     "name": "Clásica",
     "previewImageUrl": "https://raw.githubusercontent.com/Alemango/media_utils/refs/heads/invitandoando/plantillas/layout_1.png"
   },
   {
-    "id": "moderna",
+    "id": "template_02",
     "name": "Moderna",
     "previewImageUrl": "https://raw.githubusercontent.com/Alemango/media_utils/refs/heads/invitandoando/plantillas/layout_2.png"
   },
   {
-    "id": "elegante",
+    "id": "template_03",
     "name": "Elegante",
     "previewImageUrl": "https://raw.githubusercontent.com/Alemango/media_utils/refs/heads/invitandoando/plantillas/layout_3.png"
   },
   {
-    "id": "boho",
+    "id": "template_04",
     "name": "Boho",
     "previewImageUrl": "https://raw.githubusercontent.com/Alemango/media_utils/refs/heads/invitandoando/plantillas/layout_4.png"
   },
   {
-    "id": "rustica",
+    "id": "template_05",
     "name": "Rústica",
     "previewImageUrl": "https://raw.githubusercontent.com/Alemango/media_utils/refs/heads/invitandoando/plantillas/layout_5.png"
   },
   {
-    "id": "romantica",
+    "id": "template_06",
     "name": "Romántica",
     "previewImageUrl": "https://raw.githubusercontent.com/Alemango/media_utils/refs/heads/invitandoando/plantillas/layout_6.png"
   },
   {
-    "id": "minimalista",
+    "id": "template_07",
     "name": "Minimalista",
     "previewImageUrl": "https://raw.githubusercontent.com/Alemango/media_utils/refs/heads/invitandoando/plantillas/layout_7.png"
   },
   {
-    "id": "colorida",
+    "id": "template_08",
     "name": "Colorida",
     "previewImageUrl": "https://raw.githubusercontent.com/Alemango/media_utils/refs/heads/invitandoando/plantillas/layout_8.png"
   },
   {
-    "id": "artdeco",
+    "id": "template_09",
     "name": "Art Déco",
     "previewImageUrl": "https://raw.githubusercontent.com/Alemango/media_utils/refs/heads/invitandoando/plantillas/layout_9.png"
   },
   {
-    "id": "natural",
+    "id": "template_10",
     "name": "Natural",
     "previewImageUrl": "https://raw.githubusercontent.com/Alemango/media_utils/refs/heads/invitandoando/plantillas/layout_10.png"
   },
   {
-    "id": "vintage",
+    "id": "template_11",
     "name": "Vintage",
     "previewImageUrl": "https://raw.githubusercontent.com/Alemango/media_utils/refs/heads/invitandoando/plantillas/layout_11.png"
   }
