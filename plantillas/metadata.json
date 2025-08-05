@@ -1,0 +1,57 @@
+[
+  {
+    "id": "clasica",
+    "name": "Clásica",
+    "previewImageUrl": "https://raw.githubusercontent.com/Alemango/media_utils/refs/heads/invitandoando/plantillas/layout_1.png"
+  },
+  {
+    "id": "moderna",
+    "name": "Moderna",
+    "previewImageUrl": "https://raw.githubusercontent.com/Alemango/media_utils/refs/heads/invitandoando/plantillas/layout_2.png"
+  },
+  {
+    "id": "elegante",
+    "name": "Elegante",
+    "previewImageUrl": "https://raw.githubusercontent.com/Alemango/media_utils/refs/heads/invitandoando/plantillas/layout_3.png"
+  },
+  {
+    "id": "boho",
+    "name": "Boho",
+    "previewImageUrl": "https://raw.githubusercontent.com/Alemango/media_utils/refs/heads/invitandoando/plantillas/layout_4.png"
+  },
+  {
+    "id": "rustica",
+    "name": "Rústica",
+    "previewImageUrl": "https://raw.githubusercontent.com/Alemango/media_utils/refs/heads/invitandoando/plantillas/layout_5.png"
+  },
+  {
+    "id": "romantica",
+    "name": "Romántica",
+    "previewImageUrl": "https://raw.githubusercontent.com/Alemango/media_utils/refs/heads/invitandoando/plantillas/layout_6.png"
+  },
+  {
+    "id": "minimalista",
+    "name": "Minimalista",
+    "previewImageUrl": "https://raw.githubusercontent.com/Alemango/media_utils/refs/heads/invitandoando/plantillas/layout_7.png"
+  },
+  {
+    "id": "colorida",
+    "name": "Colorida",
+    "previewImageUrl": "https://raw.githubusercontent.com/Alemango/media_utils/refs/heads/invitandoando/plantillas/layout_8.png"
+  },
+  {
+    "id": "artdeco",
+    "name": "Art Déco",
+    "previewImageUrl": "https://raw.githubusercontent.com/Alemango/media_utils/refs/heads/invitandoando/plantillas/layout_9.png"
+  },
+  {
+    "id": "natural",
+    "name": "Natural",
+    "previewImageUrl": "https://raw.githubusercontent.com/Alemango/media_utils/refs/heads/invitandoando/plantillas/layout_10.png"
+  },
+  {
+    "id": "vintage",
+    "name": "Vintage",
+    "previewImageUrl": "https://raw.githubusercontent.com/Alemango/media_utils/refs/heads/invitandoando/plantillas/layout_11.png"
+  }
+]
